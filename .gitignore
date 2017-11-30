@@ -1,4 +1,4 @@
-*.temp
-!tempfile1.txt
-*.txt
-/assets/videos/
+#*.temp
+#tempfile1.txt
+#*.txt
+#/assets/videos/
